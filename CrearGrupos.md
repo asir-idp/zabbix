@@ -1,5 +1,5 @@
 # zabbix
-## Creación de grupos
+## Creacion de grupos
 Para crear un grupo de usuario accedemos a Administration → User Groups 
 Clickeamos sobre “Create user group”
 ![imagen](imagenes/image059.png)
