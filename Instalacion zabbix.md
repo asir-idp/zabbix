@@ -6,7 +6,7 @@ Instalación de Zabbix en Ubuntu 18.04, descargamos la última versión del prog
 
 `wget https://repo.zabbix.com/zabbix/4.2/ubuntu/pool/main/z/zabbix-release/zabbix-release_4.2-1+bionic_all.deb`
 
-![imagen](imagenes/image002.png)
+![imagen](imagenes/image002.gif)
 
 Descomprimimos y ejecutamos el programa
 
