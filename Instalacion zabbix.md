@@ -14,75 +14,76 @@ Descomprimimos y ejecutamos el programa.
 
 Actualizamos los repositorios.
 
-![imagen3](imagenes/image)
+![imagen3](imagenes/image005.png)
 
 Instalamos el servidor de Zabbix.
 
-![imagen4](imagenes/image)
+![imagen4](imagenes/image007.png)
 
 Creamos la base inicial ejecutando MariaDB.
 
-![imagen5](imagenes/image)
+![imagen5](imagenes/image009.png)
 
 Especificamos "UTF-8" (codificación de caracteres unicode en iso) como predeterminado.
 
-![imagen6](imagenes/image)
+![imagen6](imagenes/image011.png)
 
 Damos los privilegios de administración.
 
-![imagen7](imagenes/image)
+![imagen7](imagenes/image013.png)
 
 Cerramos MariaDB con "quit".
 
-![imagen3](imagenes/image)
+![imagen8](imagenes/image015.png)
 
 Importamos el esquema inicial y los datos, para ello utilizaremos la contraseña antes creada.
 
-![imagen3](imagenes/image)
+![imagen9](imagenes/image017.png)
 
 Utilizando la herramienta nano editamos el fichero “/etc/zabbix/zabbix_server.conf”.
 
-![imagen3](imagenes/image)
+![imagen10](imagenes/image019.png)
 
 Editamos el fichero “/etc/zabbix/apache.conf” para especificar nuestra zona horaria.
 
-![imagen3](imagenes/image)
+![imagen11](imagenes/image021.png)
 
 Reiniciamos el servidor Zabbix y el agente de procesos.
 
-![imagen3](imagenes/image)
+![imagen12](imagenes/image023.png)
 
 Hacemos que el servidor Zabbix inicie en el arranque
 
-![imagen3](imagenes/image)
+![imagen13](imagenes/image025.png)
 
 Ya estaría completado el proceso de instalación, ahora lo iniciamos escribiendo “http://localhost/zabbix”  en el buscador.
 
-![imagen3](imagenes/image)
+![imagen14](imagenes/image027.png)
 
 El programa va a comprobar los requisitos.
 
-![imagen3](imagenes/image)
+![imagen15](imagenes/image029.png)
 
 Ponemos el nombre de la base de datos, el usuario y la contraseña.
 
-![imagen3](imagenes/image)
+![imagen16](imagenes/image031.png)
 
 Asignamos el nombre de la base de datos.
 
-![imagen3](imagenes/image)
+![imagen17](imagenes/image033.png)
 
 Esto es todo lo que vamos a instalar.
 
-![imagen3](imagenes/image)
+![imagen18](imagenes/image035.png)
 
 Se nos creará el fichero que podremos editar "/usr/share/zabbix/conf/zabbix.conf.php".
 
-![imagen3](imagenes/image)
-![imagen3](imagenes/image)
+![imagen19](imagenes/image037.png)
+
+![imagen20](imagenes/image039.png)
 
 Iniciamos sesión en el programa con usuario Admin y contraseña zabbix.
 
-![imagen3](imagenes/image)
+![imagen21](imagenes/image41.png)
 
 
