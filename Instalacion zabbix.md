@@ -84,6 +84,6 @@ Se nos creará el fichero que podremos editar "/usr/share/zabbix/conf/zabbix.con
 
 Iniciamos sesión en el programa con usuario Admin y contraseña zabbix.
 
-![imagen21](imagenes/image41.png)
+![imagen21](imagenes/image41.gif)
 
 
