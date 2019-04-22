@@ -1,3 +1,4 @@
+
 # Trabajo idp tema 9 
 ## Hecho por: 
 
@@ -13,4 +14,3 @@ Descomprimimos y ejecutamos el programa
 
 Actualizamos los repositorios 
 
-![imagen3](imagenes/image005.png)
