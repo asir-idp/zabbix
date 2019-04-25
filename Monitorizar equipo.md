@@ -1,0 +1,1 @@
+Creación de un host en Zabbix para monitorizar una máquina
