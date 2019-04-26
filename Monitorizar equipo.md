@@ -4,7 +4,7 @@
 
 1º Entramos en Zabbix, nos vamos al apartado "configuration" y dentro de este entramos en el apartado "Host". 
 
-![imagen](imagenes/Monitorizarnequipo1.jpg)
+![imagen](imagenes/Monitorizarnequipo1.JPG)
 
 2º Pulsamos en "create host" y empezamos a configurar el host. Ponemos un nombre en este caso "windows-pc" y en el apartado grupos añadimos todos los grupos.
 
