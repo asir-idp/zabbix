@@ -8,4 +8,6 @@
 
 3º En caso de que ya esté abierto el programa, la monitorización se encuentra en el apartado Monitoring y después Dashboard.
 
+![imagen](imagenes/monitorizacion_red2.PNG)
+
 Es importante puntualizar que se necesita tiempo para obtener resultados  
