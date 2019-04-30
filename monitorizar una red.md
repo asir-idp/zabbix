@@ -4,7 +4,7 @@
 
 2º La monitorización de la red en la que se encuentra en nuestro servido nos aparecerá en pantalla
 
-![imagen](imagenes/monitorizacion_red.png)
+![imagen](imagenes/monitorizacion _red.PNG)
 
 3º En caso de que ya esté abierto el programa, la monitorización se encuentra en el apartado Monitoring y después Dashboard.
 
