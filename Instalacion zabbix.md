@@ -1,5 +1,6 @@
 
 # Trabajo idp tema 9 
+
 ## Hecho por:
 
 1º Instalación de Zabbix en Ubuntu 18.04, descargamos la última versión del programa utilizando el comando.
