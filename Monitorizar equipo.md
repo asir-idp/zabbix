@@ -18,7 +18,7 @@
 
 ![imagen](imagenes/Monitorizarequipo4.JPG)
 
-5º Para comprobar la conectividad del servidor con el cliente hacemos un 'ping' al equipo del cliente.
+5º Para comprobar la conectividad del servidor con el cliente hacemos un `ping` al equipo del cliente.
 
 ![imagen](imagenes/Monitorizarequipo5.JPG)
 
