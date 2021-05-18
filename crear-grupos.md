@@ -1,6 +1,4 @@
-# Trabajo idp tema 9
-
-## Creacion de grupos en Zabbix
+# Creacion de grupos en Zabbix
 
 1º Para crear un grupo de usuario accedemos a Administration → User Groups. Clickeamos sobre “Create user group”
 

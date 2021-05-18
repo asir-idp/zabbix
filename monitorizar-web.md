@@ -1,6 +1,6 @@
-# Trabajo idp tema 9
+# Monitorizar un sitio web con Zabbix
 
-## Usamos el monitoreo web de Zabbix para monitorizar la interfaz web de Zabbix. Queremos saber si está disponible, si proporciona el contenido correcto y con qué rapidez funciona. Para hacerlo, también debemos iniciar sesión con nuestro nombre de usuario y contraseña.
+A continuación explicamos como monitorizar la misma web de administración de Zabbix. Queremos saber si está disponible, si proporciona el contenido correcto y con qué rapidez funciona. Para hacerlo, también debemos iniciar sesión con nuestro nombre de usuario y contraseña.
 
 1º Añadir un escenario. Vamos a Configuración → Hosts , elegimos un host y hacemos clic en Web. Luego hacemos clic en "Crear Escenario Web".
 
@@ -39,7 +39,6 @@
 10º Hacemos clic en el nombre del escenario para ver estadísticas más detalladas.
 
 ![imagen](imagenes/Captura9-Web.JPG)
-
 
 
 

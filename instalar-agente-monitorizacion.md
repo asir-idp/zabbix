@@ -1,6 +1,6 @@
-# Trabajo idp tema 9
+# Instalación del agente para monitorizar equipos con Zabbix
 
-## Instalacion del agente zabbix para poder monitorizar la maquina donde lo vamos a instalar
+## Monitorizar un equipo con Windows
 
 1º Entramos en la pagina oficial de Zabbix y nos vamos a descargas, hay elegiremos Zabbix Agents y elegimos la version para nuestro ordenador, y le damos a descargar. 
 
@@ -41,3 +41,8 @@
 10º Para que el ping se efectivo debemos desctivar el firewall de windows para que funcione, tras haber hecho el ping lo volvemos a activar. 
 
 ![imagen10](imagenes/agente.JPG)
+
+## Monitorizar un equipos con GNU/Linux
+
+Lo sentimos, aún no está disponible.
+

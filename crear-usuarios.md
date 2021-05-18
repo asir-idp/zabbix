@@ -1,6 +1,4 @@
-# Trabajo idp tema 9
-
-## Creación de Ususarios en Zabbix
+# Creación de Usuarios en Zabbix
 
 1º En primer lugar vamos a crear un usuario en Zabbix, para ello vamos a Administration y le damos a users.
 

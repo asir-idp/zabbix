@@ -1,6 +1,4 @@
-# Trabajo idp tema 9
-
-## Monitorizar una red
+# Monitorizar una red con Zabbix
 
 1º Iniciamos el servidor local como ya hemos visto antes
 
