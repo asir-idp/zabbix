@@ -36,9 +36,9 @@ Instalación de Zabbix 4.2.1 en Ubuntu 18.04:
 
 6. Creamos la base de datos:
 
-  ```sql
-  create dabatase zabbix character set uft8 collate utf8_bin;
-  ```
+	```sql
+	create database zabbix character set utf8 collate utf8_bin;
+	```
 
 7. Creamos al usuario `zabbix` con contraseña `password` y le damos todos los privilegios sobre la base de datos `zabbix`:
 
